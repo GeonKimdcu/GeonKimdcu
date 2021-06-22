@@ -15,7 +15,7 @@
 
 <br>
 
-### :purple_heart: Career
+### :octocat: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
