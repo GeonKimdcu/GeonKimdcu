@@ -19,7 +19,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2019. 3 ~  | Department of Artificial Intelligence % Big Data | **Daegu Catolic University** |
+| **:mortar_board: Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
 | **External activities** | 2021. 1 ~   2021. 3 | short-term researcher activities | **ETRI** |
 | **Research activities** | 2021. 3 ~  | Research Task Activity | **Daegu Catolic University AI Lab** |
 
