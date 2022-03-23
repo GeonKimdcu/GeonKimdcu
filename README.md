@@ -22,6 +22,7 @@
 | **:mortar_board: Education** | 2019. 3 ~  | Department of Artificial Intelligence & Big Data | **Daegu Catolic University** |
 | **External activities** | 2021. 1 ~   2021. 3 | short-term researcher activities | **ETRI** |
 | **Research activities** | 2021. 3 ~   2021. 12| Research Task Activity | **Daegu Catolic University AI Lab** |
+| **AI research** | 2022.03.15 ~ | Digital Human Research | **GiantStep Platform Development Unit** |
 
 <h3 align="center"> 📫 Contact 📫 </h3>
 <p align="center">
