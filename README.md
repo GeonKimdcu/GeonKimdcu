@@ -21,7 +21,7 @@
 
 <h3 align="center"> 📫 Contact 📫 </h3>
 <p align="center">
-  <a href="https://geonkimdcu.github.io/"><img src="https://img.shields.io/badge/Github%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://geonkimdcu.github.io/"/></a>&nbsp
+  <a href="https://zealous-taker-473.notion.site/Dashboard-71e00a10726a47f088f6d705cc90f9b4/"><img src="https://img.shields.io/badge/Github%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://geonkimdcu.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/geon._.0428/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/geon._.0428"/></a>&nbsp
   <a href="mailto:geon0599@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=geon0599@naver.com"/></a>
 </p>
