@@ -3,9 +3,9 @@
 <h3 align="center">🧸 Research Interests 🧸</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer Vision-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Digital Human-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Multi-modal-11B48A?style=flat-square&logo=#FCC624&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Computer Vision-3766AB?style=flat-square&logo=&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Digital Human-A8B9CC?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Multimodal-11B48A?style=flat-square&logo=#FCC624&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
